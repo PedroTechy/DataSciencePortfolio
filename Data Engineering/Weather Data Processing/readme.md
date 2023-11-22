@@ -36,3 +36,8 @@ Build a dashboard using Apache Superset to visualize and explore the weather dat
 
 ![Weather API](https://github.com/PedroTechy/DataSciencePortfolio/assets/63674759/4b29cfb6-9d17-4cfd-b950-8c5258040aca)
 
+As the project was done on the local host, the Dashboard sharable link is not functional. Therefore, the following image showcases the final dashboard: 
+
+![Screenshot from 2023-11-22 12-18-28](https://github.com/PedroTechy/DataSciencePortfolio/assets/63674759/e5dcca23-0738-43df-b449-5c72d748da97)
+
+
