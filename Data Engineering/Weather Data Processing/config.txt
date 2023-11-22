@@ -1,0 +1,6 @@
+api-key
+MySQL User
+MySQL User Password
+MySQL Host
+MySQL Database name
+MySQL Database table 
